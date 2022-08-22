@@ -1,0 +1,5 @@
+1.Scraper in Python
+
+2.Scraped Data analysieren 
+
+3. Scraped Data anzeigen
