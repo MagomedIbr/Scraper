@@ -1,0 +1,134 @@
+Python_(Programmiersprache)Entwicklungsgeschichte
+Ziele
+Datentypen und Strukturen
+Sammeltypen
+Objektsystem
+Syntax
+Strukturierung durch Einrücken
+Funktionales Programmieren
+Ausnahmebehandlung
+Standardbibliothek
+Grafische Benutzeroberflächen (GUI)
+Beispiel zum Tkinter-Modul
+Beispiel zum Turtle-Grafik-Modul
+Weitere Grafiken
+Beispiel
+Interaktive Benutzung
+Implementierungen
+Entwicklungsumgebung
+Paketverwaltung
+Verbreitung und Einsatz
+Kommerzieller Einsatz
+In der Lehre
+In der Wissenschaft
+Ende von Python 2
+Kritik
+Literatur
+Weblinks
+Tutorials
+Für Anfänger
+Für Fortgeschrittene
+Für Kinder
+Einzelnachweise
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+Python
+101
